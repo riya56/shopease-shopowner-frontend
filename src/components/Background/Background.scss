@@ -1,0 +1,29 @@
+.loginBackground {
+  position: fixed;
+  padding-top: 5%;
+  //   top: 0;
+  left: 0;
+  right: 0;
+  //   bottom: 0;
+  width: 60%;
+  height: 90%;
+  z-index: 0;
+
+  background-repeat: no-repeat;
+  background-size: 54%;
+}
+.shopName {
+  padding-top: 4%;
+  margin-left: 40%;
+  margin-bottom: 2%;
+  z-index: 1;
+}
+.loginRegisterLogo {
+  margin-top: 5%;
+  margin-left: 10%;
+  color: white;
+  // font-size: 3vmax;
+  float: left;
+  transform: translate(10px, 10px);
+  font-weight: 700;
+}
